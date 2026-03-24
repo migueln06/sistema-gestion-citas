@@ -25,7 +25,7 @@ Tablero de Control: Visualización de citas con estados (Pendiente/Completado) y
 Resumen Financiero: Cálculo automático del "Total Proyectado" basado en las citas agendadas.
 
 🔧 Instalación Local
-Clona el repositorio: git clone https://github.com/tu-usuario/gestion-citas.git
+Clona el repositorio: git clone https://github.com/migueln06/sistema-gestion-citas.git
 
 Asegúrate de tener PHP configurado en tu variable de entorno (PATH).
 
