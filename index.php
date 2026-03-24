@@ -56,7 +56,9 @@
                     }
                 </script>
 
-                <button type="submit" class="btn btn-primary w-100">Registrar Cita</button>
+                <button type="submit" class="btn btn-primary w-100" onclick="this.disabled=true;this.form.submit();">
+    Registrar Cita
+</button>
             </form>
         </div>
     </div>
